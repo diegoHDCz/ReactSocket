@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.51.23",
+    "i": "^0.3.7",
     "lucide-react": "^0.426.0",
+    "npm": "^10.8.2",
     "react": "19.0.0-rc-9d2da591-20240808",
     "react-dom": "19.0.0-rc-9d2da591-20240808",
     "react-router-dom": "^6.26.0",
